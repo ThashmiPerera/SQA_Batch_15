@@ -1,2 +1,1 @@
-# SQA_Batch_15
-QATemp delete
+# QATemp delete
